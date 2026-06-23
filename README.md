@@ -10,7 +10,7 @@ Hi there 👋, I’m Prasad Patil
 
 🌱 Building projects and growing every day
 
-
+-------------------
 
 ☘️ Tech Stack
 
@@ -24,7 +24,7 @@ Mobile: Flutter, Dart
 
 Tools: Git, GitHub, VS Code, IntelliJ IDEA, Postman
 
-
+--------------------
 
 ☘️ Current Focus
 
@@ -33,6 +33,7 @@ Core Java
 Spring Boot
 Backend Development
 
+---------------------
 
 ☘️ Connect With Me
 
