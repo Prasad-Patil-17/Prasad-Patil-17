@@ -6,15 +6,21 @@ Hi there 👋, I’m Prasad Patil
 🧠 Solving DSA in C++
 🌱 Building projects and growing every day
 
+⸻
 
 ☘️ Tech Stack
 
 Languages: Java, C++, JavaScript, C
+
 Backend: Node.js, Express.js, Spring Boot
+
 Databases: MySQL, MongoDB, PostgreSQL
+
 Mobile: Flutter, Dart
+
 Tools: Git, GitHub, VS Code, IntelliJ IDEA, Postman
 
+⸻
 
 ☘️ Current Focus
 
@@ -27,7 +33,8 @@ Tools: Git, GitHub, VS Code, IntelliJ IDEA, Postman
 
 ☘️ Connect With Me
 
-* GitHub : https://github.com/Prasad-Patil-17
 * LeetCode : https://leetcode.com/u/Prasad_Patil_2/
+* GitHub : https://github.com/Prasad-Patil-17
+
 
 🌱 Always enthusiastic about learning new concepts deeply, building meaningful projects, and continuously improving.
